@@ -2,7 +2,7 @@
 
 A Graph Convolutional Network (GCN) built with PyTorch Geometric to classify nodes in the classic Karate Club social network dataset.
 
-[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/YOUR_USERNAME/gnn-node-classification/blob/main/gcn-karate-club-node-classification.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/Mirjalol-Eshmurodov/gnn-node-classification/blob/main/gcn-karate-club-node-classification.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch)](https://pytorch.org/)
 [![PyG](https://img.shields.io/badge/PyTorch_Geometric-latest-green)](https://pyg.org/)
@@ -96,7 +96,7 @@ pip install torch torch_geometric optuna
 ## Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gnn-node-classification.git
+git clone https://github.com/Mirjalol-Eshmurodov/gnn-node-classification.git
 cd gnn-node-classification
 jupyter notebook gcn-karate-club-node-classification.ipynb
 ```
